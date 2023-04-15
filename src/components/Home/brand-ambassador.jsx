@@ -67,11 +67,12 @@ const BrandAmbassador = () => {
                 <p>Mushroom World among celebrities</p>
             </div>
             <Slider {...settings}>
-                {Ambassadors?.map(e => (
+                {Ambassadors?.map((e, i) => (
                     <img
                         src={e.img}
                         className=" img-fluid img-drop-shadow"
                         alt=""
+                        key={i}
 
                     />
                 ))}

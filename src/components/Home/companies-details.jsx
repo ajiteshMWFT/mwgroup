@@ -70,7 +70,7 @@ const CompaniesDetails = () => {
       </div>
 
       {CompanyDetails?.map((company, i) => (
-        <section className="about">
+        <section className="about" key={i}>
           <div className="container">
             <div className="row align-items-center">
               <div

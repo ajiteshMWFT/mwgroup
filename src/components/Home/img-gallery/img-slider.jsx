@@ -115,7 +115,7 @@ const ImgSlider = () => {
 
 
                             {Images?.map((img, i) => (
-                                <div className="item">
+                                <div className="item" key={i}>
                                     <img
                                         src={img}
                                         alt=""
@@ -134,7 +134,7 @@ const ImgSlider = () => {
 
 
                             {Images?.map((img, i) => (
-                                <div className="item">
+                                <div className="item" key={i}>
                                     <img
                                         src={img}
                                         alt=""

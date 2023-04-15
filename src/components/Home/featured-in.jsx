@@ -79,6 +79,7 @@ const FeaturedIn = () => {
             <Slider {...settings}>
                 {mags?.map((mag, i) => (
                     <img
+                    key={i}
                         src={mag.img}
                         className="gray img-fluid shadow-md"
                         alt=""
