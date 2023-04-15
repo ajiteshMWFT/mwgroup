@@ -11,7 +11,7 @@ const About = () => {
           <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>About Us</h3>
             <p className="fst-italic">
-              Welcome to Mashroom World Group! We are a group of companies
+              Welcome to Mushroom World Group! We are a group of companies
               dedicated to making a positive impact on society by providing
               high-quality products and services that cater to various
               industries. Our mission is to make a difference in the lives of
@@ -20,7 +20,7 @@ const About = () => {
               is not just about profit and growth, but also about making a
               positive impact on society. That's why we have established a
               culture of responsibility and accountability in all our
-              subsidiaries. Each company under Mashroom World Group is committed
+              subsidiaries. Each company under mushroom World Group is committed
               to upholding the highest standards of ethics, sustainability, and
               social responsibility. Our subsidiaries are driven by a team of
               experts who are passionate about their respective fields. We
@@ -28,7 +28,7 @@ const About = () => {
               which is why we invest heavily in research and development. Our
               goal is to create products and services that are not only
               effective but also sustainable and environmentally friendly. At
-              Mashroom World Group, we believe in collaboration and partnership.
+              Mushroom World Group, we believe in collaboration and partnership.
               We work closely with our customers, suppliers, and partners to
               create win-win solutions that benefit everyone. We are constantly
               looking for new opportunities to expand our reach and create new
@@ -38,7 +38,7 @@ const About = () => {
               constantly challenging ourselves to be better, to do more, and to
               create more value for our stakeholders. We believe that by working
               together, we can create a brighter and more sustainable future for
-              everyone. Thank you for choosing Mashroom World Group. We look
+              everyone. Thank you for choosing mushroom World Group. We look
               forward to serving you and making a positive impact on society
               together.
             </p>

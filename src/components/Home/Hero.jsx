@@ -52,7 +52,7 @@ const Hero = () => {
         <div className="row justify-content-center">
           <div className="col-xl-6 col-lg-8">
             <h1>
-              Welcome to Mashroom World Group<span>.</span>
+              Welcome to mushroom World Group<span>.</span>
             </h1>
             <h2>
               We are a conglomerate of companies dedicated to serving our

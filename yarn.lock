@@ -155,9 +155,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mashroom-group@workspace:.":
+"mushroom-group@workspace:.":
   version: 0.0.0-use.local
-  resolution: "mashroom-group@workspace:."
+  resolution: "mushroom-group@workspace:."
   dependencies:
     next: 13.3.0
     react: 18.2.0
