@@ -14,6 +14,7 @@ import Footer from '@/components/Layout/Footer'
 import Team from '@/components/Home/Team'
 import FeaturedIn from '@/components/Home/featured-in'
 import BrandAmbassador from '@/components/Home/brand-ambassador'
+import ImgSlider from '@/components/Home/img-gallery/img-slider'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -29,6 +30,7 @@ export default function Home() {
     <FeaturedIn/>
     <Team/>
     <BrandAmbassador/>
+    <ImgSlider/>
     <Contact/>
     <Footer/>
     </>
